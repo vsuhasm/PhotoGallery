@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\pre-dexed\debug\classes-98609009a2847053446a7e59b6ea1c8ec51dffa4.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\pre-dexed\debug\classes-9468e277ded7a8b70053cf422882057de8071b60.jar" />
+    </item>
+    <item
+        jar="C:\Users\VenkataSuhas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-b19ad72e4483c47e64ae7489cbc7b3dc9523d9c3.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\pre-dexed\debug\classes-35116868bb1eb30c2d65524306b562055331ca54.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-2d7eb28f2f802abff33f70edddf4cb239a38cff8.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\AndroidStudioProj\PhotoGallery\app\build\intermediates\pre-dexed\debug\classes-a9c77fa1aba044cc6235fd77dbe5a5a22b87518a.jar" />
+    </item>
+
+</items>
